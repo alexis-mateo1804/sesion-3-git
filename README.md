@@ -1,5 +1,4 @@
 # sesion-3-git
-lkjnjjmnshmbjhf hw jhdyhnsdh 
- j jdh jcg jc
- m, kjkhb ewf43254
-  r3h msejhdh msd
+este es un programa de ejemplo para especificar
+las funcionalidades de este repositorio y de
+la aplicación misma
